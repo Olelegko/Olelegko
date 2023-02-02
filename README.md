@@ -4,7 +4,7 @@
 
 ### Hi there 👋
 
-<div id="badges">
+<div id="badges" align="center">
   <a href="https://t.me/Olelegko">
     <img src="https://img.shields.io/badge/-Telegram -blue" alt="Telegram Badge"/>
   </a>
