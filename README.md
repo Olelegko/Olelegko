@@ -6,7 +6,12 @@
     <img src="https://img.shields.io/badge/-Telegram -blue" alt="Telegram Badge"/>
   </a>
 </div>
+<h1>
+  hey there
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+</h1>
 
+---
 
 <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
@@ -21,9 +26,6 @@ I am a Data Analyst <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/g
 - :seedling: Exploring A/B Tests, ML.
 
 - :zap: In my free time, I like to read tech articles and hiking.
-
-- :mailbox:How to reach me: [![Telegram Badge](https://img.shields.io/badge/-Telegram -blue)](https://t.me/Olelegko)
-
 
 ---
 
