@@ -23,6 +23,8 @@ I am a Data Analyst <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/g
 - :zap: In my free time, I like to read tech articles and hiking.
 
 - :mailbox:How to reach me: [![Telegram Badge](https://img.shields.io/badge/-Telegram -blue)](https://t.me/Olelegko)
+
+
 ---
 
 ### :hammer_and_wrench: Languages and Tools :
