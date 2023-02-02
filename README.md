@@ -1,9 +1,6 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/TdjQAgDIkRsYm1HUbt/giphy.gif" width="100"/>
 </div>
-
-### Hi there 👋
-
 <div id="badges" align="center">
   <a href="https://t.me/Olelegko">
     <img src="https://img.shields.io/badge/-Telegram -blue" alt="Telegram Badge"/>
@@ -27,3 +24,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+### Hi there 👋
